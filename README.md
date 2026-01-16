@@ -67,6 +67,10 @@ Each class should contain approximately **150–300 images**.
 - **Environment:** Jupyter Notebook
 
 ---
+## Authorship
+This project was developed collaboratively by two contributors as part of a machine learning course project.
+
+---
 
 ## How to Run
 1. Install required dependencies:
@@ -141,6 +145,10 @@ Her sınıf için yaklaşık **150–300 görüntü** bulunması önerilmektedir
   - PyTorch
   - Matplotlib
 - **Ortam:** Jupyter Notebook
+
+---
+## Katkı Bilgisi
+Bu proje, bir makine öğrenmesi dersi kapsamında iki kişi tarafından ortaklaşa geliştirilmiştir.
 
 ---
 
